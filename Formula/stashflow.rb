@@ -1,8 +1,8 @@
 class Stashflow < Formula
   desc "TUI for cleaning Stash subscription YAML and restoring split routing"
   homepage "https://github.com/iwen-conf/stashflow"
-  url "https://github.com/iwen-conf/stashflow/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9874152307bb93af10908c1a983c10a0d5f71fe69c435c10494026b905eadf4a"
+  url "https://github.com/iwen-conf/stashflow/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "8830d14893b9bfb7e8cdf52d5aaabf57e61490a42e11ad4e10fd032a686e25c7"
   license "MIT"
 
   depends_on "python@3.14"
