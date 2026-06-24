@@ -1,8 +1,8 @@
 class Stashflow < Formula
   desc "TUI for cleaning Stash and Quantumult X subscription configs"
   homepage "https://github.com/iwen-conf/stashflow"
-  url "https://github.com/iwen-conf/stashflow/archive/refs/tags/v0.2.7.tar.gz"
-  sha256 "060d9d6b3006ad858008f58f4219e9c0c6cb34e609af626fe4a4642b5e577758"
+  url "https://github.com/iwen-conf/stashflow/archive/refs/tags/v0.2.8.tar.gz"
+  sha256 "9669aeb875f355ad1f45b274725b145088790d791edbc032999ddc0731aa08c3"
   license "MIT"
 
   depends_on "go" => :build
